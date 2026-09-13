@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.web-leb.com	TRUE	/	FALSE	1999999999	PHPSESSID	qfokbhk0og9d8mf5t7bg22pm9r
+unicons.iconscout.com	TRUE	/	FALSE	1999999999	__cf_bm	jdDt5w5u2RKG64ESzrhGk2SmnzHpe.mBxw8l6RbTyOY-1789318487.809179-1.0.1.1-j6zgJls_qu.6QcFWkMk78qArsvopLQBRUco1tWhme1vSfWFbLbydnT4x.isRWhSAo.0uNUM8BPdDWMIB8.JLZkDph2oalVhS42aDkAuGbT8lrnEQH6edFHbKVKnBk1jW
+iconscout.com	TRUE	/	FALSE	1999999999	SameSite	None
+

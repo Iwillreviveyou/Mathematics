@@ -1,0 +1,14 @@
+HTTrack3.50-2 launched on Sun, 13 Sep 2026 09:54:43 at https://www.web-leb.com/en/fullscreen/4897 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://www.web-leb.com/en/fullscreen/4897 -O1 "C:\My Web Sites\gnmath" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:54:44	Warning: 	Moved Permanently for https://www.web-leb.com/robots.txt
+09:54:44	Warning: 	File has moved from https://www.web-leb.com/robots.txt to https://www.web-leb.com/en/robots.txt
+09:54:50	Error: 	"Not Found" (404) at link https://www.web-leb.com/images/circle-dec.png (from https://www.web-leb.com/css/styles.css)
+
+HTTrack Website Copier/3.50-2 mirror complete in 7 seconds : 24 links scanned, 21 files written (1321987 bytes overall) [575448 bytes received at 82206 bytes/sec], 1074175 bytes transferred using HTTP compression in 20 files, ratio 25%, 3.0 requests per connection
+(1 errors, 2 warnings, 0 messages)
